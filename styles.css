@@ -1,0 +1,30 @@
+body{
+  background-color: #C8DFEA;
+  text-align: center;
+font-family: 'Outfit', sans-serif;
+}
+.main-div{
+position: absolute;
+
+height: 370px;
+width: 250px;
+background-color: white;
+border-radius: 15px;
+margin-left:640px;
+margin-top: 180px;
+}
+img{
+  height: 200px;
+  width: 220px;
+  padding-top: 10px;
+  border-radius: 15px;
+}
+h3{
+  width: 220px;
+  margin: 10px auto;
+}
+p{
+  font-size: 15px;
+  color: #bebebe;
+  margin: auto 20px;
+}
